@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <b>Front-End Developer | React.js Specialist | UI/UX Enthusiast</b>
+  <b>Front-End Developer | React.js Specialist</b>
 </div>
 
 ###
