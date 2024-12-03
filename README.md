@@ -25,9 +25,11 @@
 
 ###
 
-<p align="left">🚀 Front-end developer with 2+ years of expertise in creating responsive, pixel-perfect web interfaces using React.js and modern CSS frameworks. Skilled in transforming designs from Figma, PSD, and XD into seamless user experiences.</p>
-
-<p align="left">🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Full Stack Developer.</p>
+<div align="left">
+  <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <p>🚀 Front-end developer with 2+ years of expertise in creating responsive, pixel-perfect web interfaces using React.js and modern CSS frameworks. Skilled in transforming designs from Figma, PSD, and XD into seamless user experiences.</p>
+  <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Full Stack Developer.</p>
+</div>
 
 ###
 
@@ -73,6 +75,14 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizul-gazi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/faizul-gazi/faizul-gazi/output/snake.svg" alt="Snake animation" />
 
 ###
 
