@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Gazi Faizul Islam</h1>
 
-
 ###
 
 <div align="center">
@@ -28,7 +27,7 @@
 ###
 
 <div align="left">
-  <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.png"/>
+  <img align="right" height="150" src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif?cid=ecf05e47xw6ye36uww9xoqx9yqwwnfmc6476jit8dsk2olz0&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
   <p>🚀 Front-end developer with 2+ years of expertise in creating responsive, pixel-perfect web interfaces using React.js and modern CSS frameworks. Skilled in transforming designs from Figma, PSD, and XD into seamless user experiences.</p>
   <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Full Stack Developer.</p>
 </div>
@@ -83,8 +82,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/faizul-gazi/faizul-gazi/output/snake.png" alt="Snake animation" />
 
 ###
 
