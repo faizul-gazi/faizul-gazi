@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <img align="right" height="150" src="https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif?cid=ecf05e47xw6ye36uww9xoqx9yqwwnfmc6476jit8dsk2olz0&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img align="right" height="200" src="[https://media.giphy.com/media/LS2WElet7iL31i3bxh/giphy.gif?cid=ecf05e47xw6ye36uww9xoqx9yqwwnfmc6476jit8dsk2olz0&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandneWVvYzFzd3BvanVybjJ3bDJwcWRnYnJnODVlZDlzMDNnbjd0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7FrOU9tPbgAZtxV5mb/giphy.gif)"/>
   <p>🚀 Front-end developer with 2+ years of expertise in creating responsive, pixel-perfect web interfaces using React.js and modern CSS frameworks. Skilled in transforming designs from Figma, PSD, and XD into seamless user experiences.</p>
   <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Full Stack Developer.</p>
 </div>
