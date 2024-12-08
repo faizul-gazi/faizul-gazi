@@ -5,7 +5,7 @@
 <div align="center">
   <b>Front-End Developer | ⚛️ React.js Specialist</b>
   <br/>
-  <i>Crafting exceptional digital experiences with code and creativity</i>
+  <i>I am passionate about crafting digital solutions that merge creativity with technical expertise to solve real-world problems</i>
 </div>
 
 ###
@@ -29,13 +29,13 @@
 
 <div align="left">
   <img align="right" height="200" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
-  <p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Results-driven Front-end Developer with 2+ years of demonstrated excellence in creating sophisticated web applications. Core competencies include:</p>
+  <p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Results-driven Front-End Developer with 2+ years of demonstrated excellence in creating sophisticated web applications. Currently diving deeper into back-end development to enhance my skills as a Full-Stack Developer. Core competencies include:</p>
   <ul>
-    <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20px"> Architecting scalable and maintainable React.js solutions</li>
-    <li><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20px"> Implementing pixel-perfect, responsive designs with modern best practices</li>
-    <li><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20px"> Delivering exceptional UI/UX experiences through innovative approaches</li>
-    <li><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20px"> Translating complex design requirements from Figma, Adobe XD, and PSD into functional code</li>
-    <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px"> Optimizing application performance and implementing SEO strategies</li>
+    <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20px"> Architecting scalable and maintainable React.js solutions with state management tools like Redux.</li>
+    <li><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20px"> Implementing pixel-perfect, responsive designs with modern UI/UX principles.</li>
+    <li><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20px">Delivering exceptional user experiences by translating complex design requirements from Figma, Adobe XD, and PSD into functional code.</li>
+    <li><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20px"> Optimizing application performance and implementing SEO strategies to boost visibility and engagement.</li>
+    <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px"> Expanding expertise in Node.js, Express.js, and RESTful APIs for back-end integration.</li>
   </ul>
   <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT with focus on Advanced Algorithms & Artificial Intelligence | Evolving Full Stack Developer</p>
 </div>
