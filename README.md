@@ -1,9 +1,11 @@
-<h1 align="center">Hi, I'm Gazi Faizul Islam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Gazi Faizul Islam</h1>
 
 ###
 
 <div align="center">
-  <b>Front-End Developer | React.js Specialist</b>
+  <b>Front-End Developer | ⚛️ React.js Specialist</b>
+  <br/>
+  <i>Crafting exceptional digital experiences with code and creativity</i>
 </div>
 
 ###
@@ -23,48 +25,61 @@
   </a>
 </div>
 
-
 ###
 
 <div align="left">
   <img align="right" height="200" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
-  <p>🚀 Front-end developer with 2+ years of expertise in creating responsive, pixel-perfect web interfaces using React.js and modern CSS frameworks. Skilled in transforming designs from Figma, PSD, and XD into seamless user experiences.</p>
-  <p>🎓 Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT, with a focus on algorithms and AI technologies. Actively working towards becoming a Full Stack Developer.</p>
+  <p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Results-driven Front-end Developer with 2+ years of demonstrated excellence in creating sophisticated web applications. Core competencies include:</p>
+  <ul>
+    <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20px"> Architecting scalable and maintainable React.js solutions</li>
+    <li><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="20px"> Implementing pixel-perfect, responsive designs with modern best practices</li>
+    <li><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20px"> Delivering exceptional UI/UX experiences through innovative approaches</li>
+    <li><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="20px"> Translating complex design requirements from Figma, Adobe XD, and PSD into functional code</li>
+    <li><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20px"> Optimizing application performance and implementing SEO strategies</li>
+  </ul>
+  <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> Currently pursuing B.Sc. in Computer Science & Engineering at IUBAT with focus on Advanced Algorithms & Artificial Intelligence | Evolving Full Stack Developer</p>
 </div>
 
 ###
 
-<h3 align="left">💻 Technical Skills</h3>
+<h3 align="left">💻 Technical Proficiency</h3>
 
 ###
 
 <details>
-<summary>Frontend Development</summary>
-- React.js, JavaScript (ES6+)
-- HTML5, CSS3
-- Bootstrap, Tailwind CSS
-- Responsive Design
-- UI/UX Implementation
+<summary><b>🎨 Frontend Development Expertise</b></summary>
+<br>
+• React.js - Advanced component architecture, Custom Hooks, Context API, Redux/Redux Toolkit<br>
+• JavaScript - ES6+, TypeScript, Async Programming, DOM manipulation<br>
+• Modern CSS - Flexbox, Grid, Sass/SCSS, CSS-in-JS, Animations<br>
+• UI Frameworks - Bootstrap 5, Tailwind CSS, Material-UI, Chakra UI<br>
+• Responsive Design - Mobile-first approach, Cross-browser compatibility<br>
+• Performance - Code splitting, Lazy loading, Bundle optimization<br>
+• Web Vitals - Core Web Vitals optimization, SEO best practices
 </details>
 
 <details>
-<summary>Development Tools</summary>
-- Git & GitHub
-- VS Code
-- Firebase
-- RESTful APIs
-- Figma
+<summary><b>🛠️ Professional Toolkit & Competencies</b></summary>
+<br>
+• Version Control - Git, GitHub, GitLab<br>
+• Development Environment - VS Code, WebStorm<br>
+• API Integration - RESTful APIs, GraphQL, Firebase<br>
+• Design Collaboration - Figma, Adobe XD, Zeplin<br>
+• Testing & Quality - Jest, React Testing Library, Cypress<br>
+• CI/CD - GitHub Actions, Netlify, Vercel<br>
+• Project Management - Agile/Scrum, Jira, Trello
 </details>
 
 ###
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left">🚀 Technology Stack</h3>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -73,19 +88,20 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizul-gazi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizul-gazi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
 </div>
 
 ###
 
-###
-
 <div align="center">
+  <b>👥 Profile Visitors</b>
+  <br><br>
   <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?" />
 </div>
 
