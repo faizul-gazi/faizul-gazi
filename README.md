@@ -123,6 +123,7 @@
 </a>
 
 ##
+
 <div align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programming GIF" width="480" height="480" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding GIF" width="480" height="480" />
 </div>
