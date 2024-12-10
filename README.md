@@ -115,21 +115,12 @@
 ###
 
 ###
-<div align="center">
-  <a href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gazi-faizul-islam" 
-     style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 20px;
-     text-decoration: none; color: #ffffff; font-weight: bold; font-size: 16px;
-     border-radius: 25px; background: linear-gradient(45deg, #0077B5, #00A0DC);
-     box-shadow: 0 4px 15px rgba(0, 119, 181, 0.4); 
-     transition: all 0.3s ease; font-family: 'SF Pro Text', Helvetica, sans-serif;
-     text-align: center;" 
-     target="_blank"
-     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(0, 119, 181, 0.6)'"
-     onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(0, 119, 181, 0.4)'">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-          style="margin-right: 8px; vertical-align: middle;" />
-     Follow me on LinkedIn
-  </a>
-</div>
+<a href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gazi-faizul-islam" 
+   style="display: flex; align-items: center; justify-content: center; padding: 7px; text-decoration: none; color: #ffffff; 
+   width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: 'SF Pro Text', Helvetica, sans-serif; 
+   text-align: center;" target="_blank">
+   Follow me on LinkedIn
+</a>
 
 ##
+<iframe src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
