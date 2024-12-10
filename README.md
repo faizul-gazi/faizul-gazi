@@ -28,7 +28,7 @@
 ###
 
 <div align="left">
-  <img align="right" height="200" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+  <img align="right" height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"/>
   <p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Results-driven Front-End Developer with 2+ years of demonstrated excellence in creating sophisticated web applications. Currently diving deeper into back-end development to enhance my skills as a Full-Stack Developer. Core competencies include:</p>
   <ul>
     <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20px"> Architecting scalable and maintainable React.js solutions with state management tools like Redux.</li>
