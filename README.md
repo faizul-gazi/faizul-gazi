@@ -126,3 +126,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Coding GIF" width="480" height="480" />
 </div>
+
+##
+
+<div align="center">
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="Coding GIF" width="480" height="480" />
+</div>
+
